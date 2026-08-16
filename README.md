@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Aditya+Akkannavar+(AdiGoCrazy);AI+Engineer+%26+Software+Developer;Building+Autonomous+AI+Agents+%26+TUI+Tools;Passionate+about+Home+Servers+%26+Self-Hosting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Aditya+Akkannavar+(AdiGoCrazy);AI+Engineer+%26+Software+Developer;Building+Autonomous+AI+Agents+%26+TUI+Tools;Hyprland+Ricer+%E2%80%A2+Home+Server+%26+Self-Hosting" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -44,15 +44,16 @@
 Name: Aditya Akkannavar
 Handle: AdiGoCrazy
 Role: AI Engineer / Software Developer
-Current Focus: Autonomous AI Agents, Local LLM Tooling, Home Server Infrastructure & Terminal UIs
-Passions: AI development, home servers, self-hosting, developer tooling & terminal applications
+Current Focus: Autonomous AI Agents, Local LLM Tooling, Hyprland Desktop Ricing & Home Servers
+Passions: AI development, home servers, Linux customization, self-hosting & terminal tools
 ```
 
 - 🤖 **Building**: Autonomous agentic workflows with local LLMs (`LangGraph`, `FastMCP`, `Ollama`).
+- 🌌 **Linux Desktop Customization**: Crafting frosted-glass Hyprland + Waybar rices with live Ollama status & GPU telemetry widgets.
 - 🖥️ **Home Server & Self-Hosting**: Managing automated local media pipelines, Docker stacks, and containerized dev environments.
-- 💻 **Terminal Interfaces**: Crafting rich keyboard-driven developer workspaces with Python & `Textual`.
-- 🏆 **Hackathons**: Built an enterprise transit operations and fleet management platform (`Odoo TransitOps`).
-- ⚡ **Fun Fact**: I love connecting local LLMs to self-hosted tools to automate complex everyday workflows!
+- 💻 **Terminal Interfaces**: Building keyboard-driven developer tools and dashboards with Python & `Textual`.
+- 🏆 **Hackathons**: Developed an enterprise transit operations and fleet management platform (`Odoo TransitOps`).
+- ⚡ **Fun Fact**: I build custom Waybar telemetry widgets to monitor my local Ollama LLMs and GPU stats in real-time!
 
 ---
 
@@ -63,8 +64,9 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **AI & Agentic Systems** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/FastMCP-38BDF8?style=flat-square&logo=fastapi&logoColor=white"/> |
-| **Self-Hosting & Home Server** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Radarr-FFC230?style=flat-square&logo=radar&logoColor=black"/> <img src="https://img.shields.io/badge/qBittorrent-2F67AD?style=flat-square&logo=qbittorrent&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> |
-| **Terminal & Desktop Tools** | <img src="https://img.shields.io/badge/Textual_TUI-0F172A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MoviePy-FF6F61?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+| **Linux & Desktop Ricing** | <img src="https://img.shields.io/badge/Hyprland-505A71?style=flat-square&logo=wayland&logoColor=white"/> <img src="https://img.shields.io/badge/Waybar-38BDF8?style=flat-square&logo=gnu&logoColor=white"/> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/> <img src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/> |
+| **Self-Hosting & Home Server** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Radarr-FFC230?style=flat-square&logo=radar&logoColor=black"/> <img src="https://img.shields.io/badge/qBittorrent-2F67AD?style=flat-square&logo=qbittorrent&logoColor=white"/> |
+| **Terminal & Desktop Apps** | <img src="https://img.shields.io/badge/Textual_TUI-0F172A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MoviePy-FF6F61?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white"/> |
 | **Backend & Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
 
 </div>
@@ -75,8 +77,9 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
 
 | Repository | Description | Key Tech | Link |
 | :--- | :--- | :--- | :---: |
-| 🤖 **[radarr-agent](https://github.com/AdiGoCrazy/radarr-agent)** | Autonomous, self-hosted AI agent architecture that manages local media libraries via natural language and local LLMs. | `LangGraph` `FastMCP` `Ollama` `Python` `Docker` | [View Repo](https://github.com/AdiGoCrazy/radarr-agent) |
-| 💻 **[ProjectTUI](https://github.com/AdiGoCrazy/ProjectTUI)** | Premium, keyboard-driven Terminal User Interface for local project discovery, dependency management, and container execution. | `Python` `Textual` `TUI` `AsyncIO` | [View Repo](https://github.com/AdiGoCrazy/ProjectTUI) |
+| 🤖 **[radarr-agent](https://github.com/AdiGoCrazy/radarr-agent)** | Autonomous, self-hosted AI agent architecture managing local media stacks via natural language and local LLMs. | `LangGraph` `FastMCP` `Ollama` `Python` `Docker` | [View Repo](https://github.com/AdiGoCrazy/radarr-agent) |
+| 🌌 **[dotfiles](https://github.com/AdiGoCrazy/dotfiles)** | Modern Hyprland + Waybar desktop rice featuring custom Waybar telemetry for Ollama LLMs, NVIDIA GPU, and Docker container stats. | `Hyprland` `Waybar` `Shell` `Arch Linux` | [View Repo](https://github.com/AdiGoCrazy/dotfiles) |
+| 💻 **[ProjectTUI](https://github.com/AdiGoCrazy/ProjectTUI)** | Premium keyboard-driven Terminal User Interface for local project discovery, dependency management, and container execution. | `Python` `Textual` `TUI` `AsyncIO` | [View Repo](https://github.com/AdiGoCrazy/ProjectTUI) |
 | 🚆 **Odoo TransitOps (Hackathon)** | Enterprise transit operations and fleet management platform developed as a hackathon project. | `Python` `Odoo` `PostgreSQL` | [View Repo](https://github.com/AdiGoCrazy) |
 | 🎥 **[Video-Generator](https://github.com/AdiGoCrazy/Video-Generator)** | Desktop application built for automated video editing, composition, and processing workflows. | `Python` `CustomTkinter` `MoviePy` | [View Repo](https://github.com/AdiGoCrazy/Video-Generator) |
 
