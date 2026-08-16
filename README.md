@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Aditya+Akkannavar+(AdiGoCrazy);Full-Stack+Engineer+%26+Open+Source+Enthusiast;Building+High-Performance+Web+%26+Enterprise+Apps;Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Aditya+Akkannavar+(AdiGoCrazy);AI+Engineer+%26+Software+Developer;Building+Autonomous+AI+Agents+%26+TUI+Tools;Passionate+about+Home+Servers+%26+Self-Hosting" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -43,17 +43,16 @@
 ```yaml
 Name: Aditya Akkannavar
 Handle: AdiGoCrazy
-Role: Full-Stack Engineer / Software Developer
-Location: India 🇮🇳
-Current Focus: Scalable backend architectures, Odoo enterprise workflows & modern React UIs
-Passions: Clean code, developer tooling, automation, and open-source contributions
+Role: AI Engineer / Software Developer
+Current Focus: Autonomous AI Agents, Local LLM Tooling, Home Server Infrastructure & Terminal UIs
+Passions: AI development, home servers, self-hosting, developer tooling & terminal applications
 ```
 
-- 🔭 **Currently working on**: Enterprise transit & fleet operations management systems ([`odoo-transitops`](https://github.com/AdiGoCrazy/odoo-transitops)).
-- 🌱 **Exploring & Masterclassing**: Microservices design, Go, advanced Python async patterns, and container orchestration.
-- 👯 **Open to collaboration**: High-impact open-source developer tools, CLI utilities, and web platforms.
-- 💬 **Ask me about**: Python, JavaScript/TypeScript, Odoo customization, REST APIs, and Linux dev setups.
-- ⚡ **Fun Fact**: I love turning tedious multi-step manual tasks into one-click CLI tools!
+- 🤖 **Building**: Autonomous agentic workflows with local LLMs (`LangGraph`, `FastMCP`, `Ollama`).
+- 🖥️ **Home Server & Self-Hosting**: Managing automated local media pipelines, Docker stacks, and containerized dev environments.
+- 💻 **Terminal Interfaces**: Crafting rich keyboard-driven developer workspaces with Python & `Textual`.
+- 🏆 **Hackathons**: Built an enterprise transit operations and fleet management platform (`Odoo TransitOps`).
+- ⚡ **Fun Fact**: I love connecting local LLMs to self-hosted tools to automate complex everyday workflows!
 
 ---
 
@@ -63,13 +62,23 @@ Passions: Clean code, developer tooling, automation, and open-source contributio
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> |
-| **Frameworks & Libs** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/> |
-| **Databases & Storage** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
-| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
-| **Tools & Editors** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> |
+| **AI & Agentic Systems** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-121011?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/FastMCP-38BDF8?style=flat-square&logo=fastapi&logoColor=white"/> |
+| **Self-Hosting & Home Server** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Radarr-FFC230?style=flat-square&logo=radar&logoColor=black"/> <img src="https://img.shields.io/badge/qBittorrent-2F67AD?style=flat-square&logo=qbittorrent&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> |
+| **Terminal & Desktop Tools** | <img src="https://img.shields.io/badge/Textual_TUI-0F172A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MoviePy-FF6F61?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+| **Backend & Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+| Repository | Description | Key Tech | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **[radarr-agent](https://github.com/AdiGoCrazy/radarr-agent)** | Autonomous, self-hosted AI agent architecture that manages local media libraries via natural language and local LLMs. | `LangGraph` `FastMCP` `Ollama` `Python` `Docker` | [View Repo](https://github.com/AdiGoCrazy/radarr-agent) |
+| 💻 **[ProjectTUI](https://github.com/AdiGoCrazy/ProjectTUI)** | Premium, keyboard-driven Terminal User Interface for local project discovery, dependency management, and container execution. | `Python` `Textual` `TUI` `AsyncIO` | [View Repo](https://github.com/AdiGoCrazy/ProjectTUI) |
+| 🚆 **Odoo TransitOps (Hackathon)** | Enterprise transit operations and fleet management platform developed as a hackathon project. | `Python` `Odoo` `PostgreSQL` | [View Repo](https://github.com/AdiGoCrazy) |
+| 🎥 **[Video-Generator](https://github.com/AdiGoCrazy/Video-Generator)** | Desktop application built for automated video editing, composition, and processing workflows. | `Python` `CustomTkinter` `MoviePy` | [View Repo](https://github.com/AdiGoCrazy/Video-Generator) |
 
 ---
 
@@ -96,7 +105,7 @@ Passions: Clean code, developer tooling, automation, and open-source contributio
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiGoCrazy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiGoCrazy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -109,24 +118,6 @@ Passions: Clean code, developer tooling, automation, and open-source contributio
   </a>
 
 </div>
-
----
-
-### 🐍 Contribution Graph Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdiGoCrazy/AdiGoCrazy/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Repository | Description | Key Tech | Link |
-| :--- | :--- | :--- | :---: |
-| 🚆 **odoo-transitops** | Enterprise transit operations & fleet management solution with real-time routing logic. | `Python` `Odoo` `PostgreSQL` | [View Repo](https://github.com/AdiGoCrazy/odoo-transitops) |
-| ⚡ **awesome-dev-tools** | A curated collection of productivity utilities and CLI scripts. | `JavaScript` `Shell` | [View Repo](https://github.com/AdiGoCrazy) |
-| 🌐 **portfolio-web** | Modern responsive personal developer portfolio showcase with glassmorphism UI. | `React` `TailwindCSS` | [View Repo](https://github.com/AdiGoCrazy) |
 
 ---
 
