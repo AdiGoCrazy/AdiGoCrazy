@@ -3,23 +3,6 @@
   <!-- Blurred Wallpaper Hero Banner with Text Overlay -->
   <img src="./assets/hero_banner.png" width="100%" alt="Hey there, I'm Adi" style="border-radius: 14px;"/>
 
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://github.com/AdiGoCrazy/dotfiles">
-      <img src="https://img.shields.io/badge/My_Dotfiles-AdiGoCrazy/dotfiles-c4a7e7?style=for-the-badge&logo=github&logoColor=0a0a1a" alt="Dotfiles"/>
-    </a>
-    <a href="https://archlinux.org">
-      <img src="https://img.shields.io/badge/OS-Arch_Linux-9ccfd8?style=for-the-badge&logo=archlinux&logoColor=0a0a1a" alt="Arch Linux"/>
-    </a>
-    <a href="https://hyprland.org">
-      <img src="https://img.shields.io/badge/WM-Hyprland_v0.50-f6c177?style=for-the-badge&logo=wayland&logoColor=0a0a1a" alt="Hyprland"/>
-    </a>
-    <a href="https://github.com/AdiGoCrazy/radarr-agent">
-      <img src="https://img.shields.io/badge/AI-LangGraph_&_Ollama-eb1c52?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI Agent"/>
-    </a>
-  </p>
-
 </div>
 
 ---
@@ -101,10 +84,4 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
   <a href="https://github.com/AdiGoCrazy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiGoCrazy&stroke=c4a7e7&background=0a0a1a&ring=9ccfd8&fire=f6c177&currStreakNum=c4a7e7&sideNums=e0def4&currStreakLabel=9ccfd8&sideLabels=6e6a86&dates=6e6a86" width="95%" alt="Streak Stats"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <sub>Styled with 💜 to match Adi's Hyprland Frosted Glass Desktop</sub>
 </div>
