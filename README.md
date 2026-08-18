@@ -24,6 +24,16 @@
 
 ---
 
+### 🖼️ Active Desktop Background
+
+<div align="center">
+  <img src="./assets/wallpaper.jpg" width="100%" alt="Hyprland Active Wallpaper" style="border-radius: 12px; border: 2px solid #c4a7e7;"/>
+  <br/>
+  <sub><i>Active Hyprland wallpaper managed by <code>hyprpaper</code> (<code>42271.jpg</code>)</i></sub>
+</div>
+
+---
+
 ### ❄️ About Me
 
 ```yaml
@@ -31,6 +41,7 @@ User: Adi (AdiGoCrazy)
 Role: AI Engineer / System & Software Developer
 Environment: Arch Linux x86_64
 Window Manager: Hyprland (Wayland)
+Wallpaper Daemon: hyprpaper
 Bar & Widgets: Waybar + Custom Python GTK3 Dockets
 Theme: Frosted Glass / Midnight Palette (#0a0a1a)
 Key Focus:
@@ -41,6 +52,7 @@ Key Focus:
 
 - 🤖 **Autonomous AI Agents**: Building LLM-driven agents (`radarr-agent`) connecting local Ollama models to self-hosted microservices.
 - 🎨 **Desktop Architect**: Designing custom GTK3 Python popovers (`bt_docket.py`, `wifi_docket.py`, `audio_docket.py`) for Hyprland & Waybar.
+- 🖼️ **Hyprpaper Wallpaper**: Configured with automated background loading & wallpaper transitions in Hyprland.
 - 🖥️ **Home Server & Systems**: Containerizing services with Docker, managing Arch Linux, and building terminal developer interfaces (`ProjectTUI`).
 - ⚡ **Fun Fact**: My Waybar includes custom live status telemetry for local Ollama LLMs and NVIDIA GPU usage!
 
@@ -61,10 +73,10 @@ Key Focus:
 
   <!-- Desktop & Infrastructure -->
   <img src="https://img.shields.io/badge/Linux-Hyprland-c4a7e7?style=for-the-badge&logo=archlinux&logoColor=0a0a1a" alt="Hyprland"/>
+  <img src="https://img.shields.io/badge/Wallpaper-hyprpaper-9ccfd8?style=for-the-badge&logo=wayland&logoColor=0a0a1a" alt="hyprpaper"/>
   <img src="https://img.shields.io/badge/Bar-Waybar-9ccfd8?style=for-the-badge&logo=wayland&logoColor=0a0a1a" alt="Waybar"/>
   <img src="https://img.shields.io/badge/UI-GTK3_Dockets-f6c177?style=for-the-badge&logo=gnome&logoColor=0a0a1a" alt="GTK3"/>
   <img src="https://img.shields.io/badge/Docker-Containers-eb1c52?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-VCS-c4a7e7?style=for-the-badge&logo=git&logoColor=0a0a1a" alt="Git"/>
 
 </div>
 
@@ -75,7 +87,7 @@ Key Focus:
 | Repository | Description | Key Tech | Link |
 | :--- | :--- | :--- | :---: |
 | 🤖 **[radarr-agent](https://github.com/AdiGoCrazy/radarr-agent)** | Autonomous, self-hosted AI agent managing local media stacks via natural language and local LLMs. | `LangGraph` `FastMCP` `Ollama` `Python` | [View Repo](https://github.com/AdiGoCrazy/radarr-agent) |
-| 🌌 **[dotfiles](https://github.com/AdiGoCrazy/dotfiles)** | Modern Hyprland + Waybar desktop rice featuring custom GTK3 Python dockets, live GPU & Ollama telemetry. | `Hyprland` `Waybar` `GTK3` `Arch Linux` | [View Repo](https://github.com/AdiGoCrazy/dotfiles) |
+| 🌌 **[dotfiles](https://github.com/AdiGoCrazy/dotfiles)** | Modern Hyprland + Waybar desktop rice featuring custom GTK3 Python dockets, hyprpaper, live GPU & Ollama telemetry. | `Hyprland` `Waybar` `GTK3` `Arch Linux` | [View Repo](https://github.com/AdiGoCrazy/dotfiles) |
 | 💻 **[ProjectTUI](https://github.com/AdiGoCrazy/ProjectTUI)** | Keyboard-driven Terminal User Interface for local project discovery, dependency management & container execution. | `Python` `Textual` `TUI` `AsyncIO` | [View Repo](https://github.com/AdiGoCrazy/ProjectTUI) |
 | 🎥 **[Video-Generator](https://github.com/AdiGoCrazy/Video-Generator)** | Desktop GUI application built for automated video editing, composition, and rendering. | `Python` `CustomTkinter` `MoviePy` | [View Repo](https://github.com/AdiGoCrazy/Video-Generator) |
 | 🚆 **Odoo TransitOps** | Enterprise transit operations and fleet management platform developed as a hackathon project. | `Python` `Odoo` `PostgreSQL` | [View Repo](https://github.com/AdiGoCrazy) |
@@ -106,6 +118,7 @@ Key Focus:
 ### 🖥️ Desktop Setup Highlights
 
 - 🎨 **Frosted Glass UI**: Custom GTK3 Python popovers (`bt_docket.py`, `wifi_docket.py`, `audio_docket.py`, `clock_docket.py`, `power_docket.py`) with cross-docket IPC single-active window locking.
+- 🖼️ **hyprpaper Engine**: Smooth wallpaper management pointing to `/home/adi/.config/hypr/wallpapers/42271.jpg`.
 - 🕒 **GNOME-Style Date & Time**: Animated Cairo vector analog clock + scrollable GTK month/year calendar.
 - 🔋 **Smart Battery Daemon**: Hardware AC polling daemon with custom dunst OSD toasts and login chimes.
 - 📦 **Dotfiles Repo**: [AdiGoCrazy/dotfiles](https://github.com/AdiGoCrazy/dotfiles) with 1-step `install.sh` automated Arch setup.
