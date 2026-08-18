@@ -99,15 +99,6 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
 
 ---
 
-### 🖥️ Desktop Setup Highlights
-
-- 🎨 **Frosted Glass UI**: Custom GTK3 Python popovers (`bt_docket.py`, `wifi_docket.py`, `audio_docket.py`, `clock_docket.py`, `power_docket.py`) with cross-docket IPC single-active window locking.
-- 🕒 **GNOME-Style Date & Time**: Animated Cairo vector analog clock + scrollable GTK month/year calendar.
-- 🔋 **Smart Battery Daemon**: Hardware AC polling daemon with custom dunst OSD toasts and login chimes.
-- 📦 **Dotfiles Repo**: [AdiGoCrazy/dotfiles](https://github.com/AdiGoCrazy/dotfiles) with 1-step `install.sh` automated Arch setup.
-
----
-
 <div align="center">
   <sub>Styled with 💜 to match Adi's Hyprland Frosted Glass Desktop</sub>
 </div>
