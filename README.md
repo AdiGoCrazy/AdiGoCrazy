@@ -27,22 +27,18 @@
 ### ❄️ About Me
 
 ```yaml
-User: Adi (AdiGoCrazy)
-Role: AI Engineer / System & Software Developer
-Environment: Arch Linux x86_64
-Window Manager: Hyprland (Wayland)
-Bar & Widgets: Waybar + Custom Python GTK3 Dockets
-Theme: Frosted Glass / Midnight Palette (#0a0a1a)
-Key Focus:
-  - AI Systems: Autonomous Agents (LangGraph, FastMCP, Ollama)
-  - Desktop Rice: Custom GTK3 Dockets (Audio, Network, Bluetooth, Clock)
-  - Self-Hosting: Docker containers, media stack automation, home server tools
+Name: Aditya Akkannavar
+Handle: AdiGoCrazy
+Role: AI Engineer / Software Developer
+Current Focus: Autonomous AI Agents, Local LLMs, Self-Hosted Infrastructure & Developer Tooling
+Passions: AI development, home servers, self-hosting, developer tooling & terminal applications
 ```
 
 - 🤖 **Autonomous AI Agents**: Building LLM-driven agents (`radarr-agent`) connecting local Ollama models to self-hosted microservices.
-- 🎨 **Desktop Architect**: Designing custom GTK3 Python popovers (`bt_docket.py`, `wifi_docket.py`, `audio_docket.py`) for Hyprland & Waybar.
-- 🖥️ **Home Server & Systems**: Containerizing services with Docker, managing Arch Linux, and building terminal developer interfaces (`ProjectTUI`).
-- ⚡ **Fun Fact**: My Waybar includes custom live status telemetry for local Ollama LLMs and NVIDIA GPU usage!
+- 💻 **Terminal Interfaces & Tools**: Building keyboard-driven developer tools and dashboards with Python & `Textual` (`ProjectTUI`).
+- 🖥️ **Home Servers & Systems**: Containerizing services with Docker and managing Linux self-hosted stacks.
+- 🏆 **Hackathons**: Developed an enterprise transit operations and fleet management platform (`Odoo TransitOps`).
+- ⚡ **Fun Fact**: I love connecting local LLMs to self-hosted tools to automate complex everyday workflows!
 
 ---
 
@@ -60,8 +56,8 @@ Key Focus:
   <br/>
 
   <!-- Desktop & Infrastructure -->
-  <img src="https://img.shields.io/badge/Linux-Hyprland-c4a7e7?style=for-the-badge&logo=archlinux&logoColor=0a0a1a" alt="Hyprland"/>
-  <img src="https://img.shields.io/badge/Bar-Waybar-9ccfd8?style=for-the-badge&logo=wayland&logoColor=0a0a1a" alt="Waybar"/>
+  <img src="https://img.shields.io/badge/Linux-Arch-c4a7e7?style=for-the-badge&logo=archlinux&logoColor=0a0a1a" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/WM-Hyprland-9ccfd8?style=for-the-badge&logo=wayland&logoColor=0a0a1a" alt="Hyprland"/>
   <img src="https://img.shields.io/badge/UI-GTK3_Dockets-f6c177?style=for-the-badge&logo=gnome&logoColor=0a0a1a" alt="GTK3"/>
   <img src="https://img.shields.io/badge/Docker-Containers-eb1c52?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-VCS-c4a7e7?style=for-the-badge&logo=git&logoColor=0a0a1a" alt="Git"/>
