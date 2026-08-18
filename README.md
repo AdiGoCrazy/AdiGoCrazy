@@ -1,16 +1,9 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a1a&height=220&section=header&text=Hey%20there,%20I'm%20Adi%20👋&fontSize=42&fontColor=c4a7e7&animation=fadeIn" width="100%"/>
+  <!-- Blurred Wallpaper Hero Banner with Text Overlay -->
+  <img src="./assets/hero_banner.png" width="100%" alt="Hey there, I'm Adi" style="border-radius: 14px;"/>
 
   <br/><br/>
-  
-  <!-- Hero Aesthetic Banner Image -->
-  <img src="./assets/wallpaper.jpg" width="100%" alt="Hero Banner" style="border-radius: 14px;"/>
-
-  <br/><br/>
-
-  <h3>✨ AI Engineer • System Developer • Hyprland & Self-Hosting Enthusiast ✨</h3>
 
   <p align="center">
     <a href="https://github.com/AdiGoCrazy/dotfiles">
