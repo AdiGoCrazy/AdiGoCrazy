@@ -84,17 +84,23 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AdiGoCrazy&show_icons=true&bg_color=0a0a1a&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4&border_color=c4a7e7&hide_border=false" width="410" alt="Adi's GitHub Stats"/>
+        <a href="https://github.com/AdiGoCrazy?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api?username=AdiGoCrazy&show_icons=true&bg_color=0a0a1a&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4&border_color=c4a7e7&hide_border=false" width="410" alt="Adi's GitHub Stats"/>
+        </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiGoCrazy&layout=compact&bg_color=0a0a1a&title_color=c4a7e7&text_color=e0def4&border_color=c4a7e7&hide_border=false" width="370" alt="Top Languages"/>
+        <a href="https://github.com/AdiGoCrazy?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiGoCrazy&layout=compact&bg_color=0a0a1a&title_color=c4a7e7&text_color=e0def4&border_color=c4a7e7&hide_border=false" width="370" alt="Top Languages"/>
+        </a>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiGoCrazy&stroke=c4a7e7&background=0a0a1a&ring=9ccfd8&fire=f6c177&currStreakNum=c4a7e7&sideNums=e0def4&currStreakLabel=9ccfd8&sideLabels=6e6a86&dates=6e6a86" width="95%" alt="Streak Stats"/>
+  <a href="https://github.com/AdiGoCrazy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiGoCrazy&stroke=c4a7e7&background=0a0a1a&ring=9ccfd8&fire=f6c177&currStreakNum=c4a7e7&sideNums=e0def4&currStreakLabel=9ccfd8&sideLabels=6e6a86&dates=6e6a86" width="95%" alt="Streak Stats"/>
+  </a>
 </div>
 
 ---
