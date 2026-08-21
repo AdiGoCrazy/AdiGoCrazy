@@ -32,7 +32,7 @@
   - Quantization: 4-bit (GGUF / EXL2) formats
   - Cache Optimization: TurboQuant KV cache compression (RTX 3050 4GB VRAM mobile limits)
   - Target Deployments: Gemma 4 E2B, compact quantized architectures
-- **Web & Systems:** Astro Framework, Rust compiled to WebAssembly (WASM), Supabase (PostgreSQL), Brave Search API
+- **Web & Systems:** Astro Framework, Supabase (PostgreSQL), Brave Search API
 - **Languages:** Python (Primary), Rust, Java (Object-Oriented), SQL, JavaScript, Node.js, Bash
 
 ---
@@ -41,7 +41,7 @@
 
 ### Software Engineering & Architecture
 - **Rigorous Engineering Over "Vibe Coding":** Rejects superficial, purely generative coding in favor of structured architectural planning, explicit typing, robust schema definitions, and deterministic system design.
-- **Local-First & Client-Side Privacy:** Prioritizes in-browser compute using WebAssembly (WASM) and Rust to process user data locally, eliminating unnecessary server dependencies and maximizing user privacy.
+- **Local-First & Privacy:** Prioritizes local, on-device compute to process data locally, eliminating unnecessary cloud dependencies and maximizing user privacy.
 - **Pragmatic Resource Optimization:** Approaches physical hardware constraints with engineering adaptations (such as 4-bit quantization and KV cache compression algorithms) rather than brute-forcing unfeasible models.
 
 ### Learning, Inquiry & Problem Solving

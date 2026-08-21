@@ -18,5 +18,12 @@ This is an append-only ledger of daily logs, activities, key decisions, and inte
 - **Active Focus:** Commenced learning and design of a **Movie Knowledge Graph** aimed at building a complex, taste-curating recommender agent. Goal is to generalize this architecture to other multimedia (music, books).
 - **Note:** Personalized Agent fully aligned and ready for active daily assistance.
 
+---
+
+### 🟢 2026-08-19
+- **Skill Installation:** Downloaded and configured the `grill-me` skill from the Skills Marketplace (`skillsmp.com/creators/mattpocock/skills/skills-productivity-grill-me`).
+- **Setup:** Registered the `grill-me` plugin/skill locally under `~/.gemini/config/plugins/grill-me/` so it is active and recognized by Antigravity.
+
+
 
 
