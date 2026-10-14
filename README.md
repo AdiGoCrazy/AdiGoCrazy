@@ -60,6 +60,7 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
 | 🌌 **[dotfiles](https://github.com/AdiGoCrazy/dotfiles)** | Modern Hyprland + Waybar desktop rice featuring custom GTK3 Python dockets, live GPU & Ollama telemetry. | `Hyprland` `Waybar` `GTK3` `Arch Linux` | [View Repo](https://github.com/AdiGoCrazy/dotfiles) |
 | 💻 **[ProjectTUI](https://github.com/AdiGoCrazy/ProjectTUI)** | Keyboard-driven Terminal User Interface for local project discovery, dependency management & container execution. | `Python` `Textual` `TUI` `AsyncIO` | [View Repo](https://github.com/AdiGoCrazy/ProjectTUI) |
 | 🎥 **[Video-Generator](https://github.com/AdiGoCrazy/Video-Generator)** | Desktop GUI application built for automated video editing, composition, and rendering. | `Python` `CustomTkinter` `MoviePy` | [View Repo](https://github.com/AdiGoCrazy/Video-Generator) |
+| 🛰️ **[Depth-Wizard](https://github.com/AdiGoCrazy/depth-wizard)** | Depth-estimation and terrain-analysis toolkit for drone imagery, including calibration, segmentation, validation, and GeoTIFF export. | `Python` `FastAPI` `Computer Vision` | [View Repo](https://github.com/AdiGoCrazy/depth-wizard) |
 | 🚆 **Odoo TransitOps** | Enterprise transit operations and fleet management platform developed as a hackathon project. | `Python` `Odoo` `PostgreSQL` | [View Repo](https://github.com/AdiGoCrazy) |
 
 ---
@@ -88,5 +89,3 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiGoCrazy&stroke=c4a7e7&background=0a0a1a&ring=9ccfd8&fire=f6c177&currStreakNum=c4a7e7&sideNums=e0def4&currStreakLabel=9ccfd8&sideLabels=6e6a86&dates=6e6a86" width="95%" alt="Streak Stats"/>
   </a>
 </div>
-
-| 🛰️ **[Depth-Wizard](https://github.com/AdiGoCrazy/depth-wizard)** | Depth-estimation and terrain-analysis toolkit for drone imagery, including calibration, segmentation, validation, and GeoTIFF export. | `Python` `FastAPI` `Computer Vision` | [View Repo](https://github.com/AdiGoCrazy/depth-wizard) |
