@@ -61,6 +61,7 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
 | 💻 **[ProjectTUI](https://github.com/AdiGoCrazy/ProjectTUI)** | Keyboard-driven Terminal User Interface for local project discovery, dependency management & container execution. | `Python` `Textual` `TUI` `AsyncIO` | [View Repo](https://github.com/AdiGoCrazy/ProjectTUI) |
 | 🎥 **[Video-Generator](https://github.com/AdiGoCrazy/Video-Generator)** | Desktop GUI application built for automated video editing, composition, and rendering. | `Python` `CustomTkinter` `MoviePy` | [View Repo](https://github.com/AdiGoCrazy/Video-Generator) |
 | 🛰️ **[Depth-Wizard](https://github.com/AdiGoCrazy/depth-wizard)** | Depth-estimation and terrain-analysis toolkit for drone imagery, including calibration, segmentation, validation, and GeoTIFF export. | `Python` `FastAPI` `Computer Vision` | [View Repo](https://github.com/AdiGoCrazy/depth-wizard) |
+| 🛒 **[atlas-commerce](https://github.com/AdiGoCrazy/atlas-commerce)** | Multi-agent orchestrator and operator workspace for evaluating regional markets and safely adapting product recommendations with deterministic policy gates. | `Python` `AI Agents` `Policy` | [View Repo](https://github.com/AdiGoCrazy/atlas-commerce) |
 | 🚆 **Odoo TransitOps** | Enterprise transit operations and fleet management platform developed as a hackathon project. | `Python` `Odoo` `PostgreSQL` | [View Repo](https://github.com/AdiGoCrazy) |
 
 ---
