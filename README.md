@@ -88,3 +88,5 @@ Passions: AI development, home servers, self-hosting, developer tooling & termin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiGoCrazy&stroke=c4a7e7&background=0a0a1a&ring=9ccfd8&fire=f6c177&currStreakNum=c4a7e7&sideNums=e0def4&currStreakLabel=9ccfd8&sideLabels=6e6a86&dates=6e6a86" width="95%" alt="Streak Stats"/>
   </a>
 </div>
+
+| 🛰️ **[Depth-Wizard](https://github.com/AdiGoCrazy/depth-wizard)** | Depth-estimation and terrain-analysis toolkit for drone imagery, including calibration, segmentation, validation, and GeoTIFF export. | `Python` `FastAPI` `Computer Vision` | [View Repo](https://github.com/AdiGoCrazy/depth-wizard) |
